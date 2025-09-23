@@ -4,20 +4,20 @@
 
 En lógica, una **proposición** es un enunciado que **puede ser clasificado como verdadero o falso**, pero **no ambos al mismo tiempo**. Es la unidad básica del razonamiento lógico y se utiliza en disciplinas como la filosofía, la informática, la matemática y la programación.
 
-### 🤖 Ejemplos de proposiciones:
+###  Ejemplos de proposiciones:
 
 - "El sistema está en línea." → Puede ser **verdadero o falso**.  
 - "El jugador tiene más de 1000 puntos." → También puede ser **verdadero o falso**.
 
-### ❌ Ejemplos que **NO son** proposiciones:
+###  Ejemplos que **NO son** proposiciones:
 
 - "¡Inicia sesión ahora!" → Es una **orden**, no puede decirse que sea verdadera o falsa.  
 - "¿Cerraste sesión?" → Es una **pregunta**, no una afirmación con valor lógico.  
-- "Genial 😎" → Es una expresión subjetiva, no tiene valor de verdad.
+- "Genial" → Es una expresión subjetiva, no tiene valor de verdad.
 
 ---
 
-## 🎮 Tu misión: ¿Cuál de los siguientes enunciados es una proposición?
+##  Tu misión: ¿Cuál de los siguientes enunciados es una proposición?
 
 Lee cada enunciado y decide si **es una proposición** (puede ser verdadera o falsa) o **no lo es**.
 

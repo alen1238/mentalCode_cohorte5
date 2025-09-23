@@ -1,16 +1,16 @@
 #  Ejercicios de Mapas de Decisión
 
-## 📘 ¿Qué es un Mapa de Decisión?
+## ¿Qué es un Mapa de Decisión?
 
 Un **mapa de decisión** es una herramienta visual que representa gráficamente las posibles decisiones, condiciones y resultados en un proceso de toma de decisiones. Se utiliza para analizar situaciones complejas y facilitar la elección de la mejor alternativa basada en criterios específicos.
 
-### 🧩 Componentes de un Mapa de Decisión:
+###  Componentes de un Mapa de Decisión:
 
 - **Decisión**: Punto donde se debe elegir entre diferentes opciones.
 - **Condición**: Situación o criterio que afecta la decisión.
 - **Resultado**: Consecuencia de una decisión bajo ciertas condiciones.
 
-### ✅ Ejemplo:
+###  Ejemplo:
 
 **Enunciado**: Si el usuario ingresa su correo electrónico y contraseña correctamente, se inicia sesión.
 
@@ -20,7 +20,7 @@ Un **mapa de decisión** es una herramienta visual que representa gráficamente 
 
 ---
 
-## 📝 Instrucciones:
+## Instrucciones:
 
 Lee cuidadosamente cada uno de los siguientes enunciados. Para cada uno:
 
@@ -31,7 +31,7 @@ Lee cuidadosamente cada uno de los siguientes enunciados. Para cada uno:
 
 ---
 
-## ✏️ Enunciados:
+## Enunciados:
 
 1. **Inicio de Sesión**: Si el usuario ingresa su correo electrónico y contraseña correctamente, se inicia sesión.
 2. **Control de comentarios ofensivos**: Una red social quiere automatizar el sistema de moderación de comentarios:
@@ -48,21 +48,21 @@ Reglas de moderación:
    - El solicitante debe tener 21 años o más. 
    - Sus ingresos mensuales deben ser iguales o superiores a $1.500.000. 
    - Debe tener un historial crediticio positivo.
-📌 Si en cualquiera de estos pasos el solicitante no cumple con el criterio, el sistema debe rechazar la solicitud automáticamente. Solo si cumple con los tres criterios, el sistema debe aprobar el crédito.
+ Si en cualquiera de estos pasos el solicitante no cumple con el criterio, el sistema debe rechazar la solicitud automáticamente. Solo si cumple con los tres criterios, el sistema debe aprobar el crédito.
 5. **Descuento tienda en línea**: Una tienda en línea desea automatizar el sistema de descuentos al momento de la compra. El sistema debe aplicar descuentos con base en las siguientes condiciones:
-🛍️ Reglas del descuento: 
+ Reglas del descuento: 
 - Si el cliente realiza una compra de más de $200.000 y además es cliente frecuente, se le otorga un 20% de descuento.
 - Si el cliente realiza una compra de más de $200.000 o es cliente frecuente (pero no ambos), se le otorga un 10% de descuento.
 - En cualquier otro caso, no se aplica ningún descuento.
 
 ---
-# 🔍 Ejercicios Avanzados: Mapas de Decisión en Contextos Informáticos y Empresariales
+#  Ejercicios Avanzados: Mapas de Decisión en Contextos Informáticos y Empresariales
 
 Estos ejercicios requieren una interpretación lógica más profunda. Involucran múltiples condiciones, operaciones compuestas, rangos y estructuras que se asemejan más a la lógica usada en programación real.
 
 ---
 
-## 📁 1. Clasificación de tickets en una mesa de ayuda técnica
+##  1. Clasificación de tickets en una mesa de ayuda técnica
 
 Una empresa desea clasificar automáticamente los tickets que llegan a su sistema de soporte:
 
@@ -80,7 +80,7 @@ Una empresa desea clasificar automáticamente los tickets que llegan a su sistem
 
 ---
 
-## 📦 2. Automatización de pedidos inteligentes para distribuidores
+##  2. Automatización de pedidos inteligentes para distribuidores
 
 Un sistema de reabastecimiento evalúa pedidos en una red de distribuidores.
 
@@ -97,7 +97,7 @@ Un sistema de reabastecimiento evalúa pedidos en una red de distribuidores.
 
 ---
 
-## 💳 3. Validación de transacciones bancarias sospechosas
+## 3. Validación de transacciones bancarias sospechosas
 
 Un banco quiere automatizar el análisis de seguridad de sus transacciones.
 
@@ -114,7 +114,7 @@ Un banco quiere automatizar el análisis de seguridad de sus transacciones.
 
 ---
 
-## 📊 4. Evaluación del desempeño anual de empleados
+##  4. Evaluación del desempeño anual de empleados
 
 Un sistema de RRHH determina la clasificación final del empleado según múltiples factores.
 
@@ -131,7 +131,7 @@ Un sistema de RRHH determina la clasificación final del empleado según múltip
 
 ---
 
-## 🌐 5. Sistema de sugerencias automatizadas de marketing
+##  5. Sistema de sugerencias automatizadas de marketing
 
 Una plataforma digital selecciona automáticamente el tipo de campaña para cada usuario según múltiples criterios.
 
@@ -148,7 +148,7 @@ Una plataforma digital selecciona automáticamente el tipo de campaña para cada
 
 ---
 
-💡 **Desafío adicional**: Para cada ejercicio:
+**Desafío adicional**: Para cada ejercicio:
 1. Haz el mapa de decisión.
 2. Describe verbalmente el razonamiento detrás de cada camino.
 3. Transforma la lógica en pseudocódigo o código real en tu lenguaje de preferencia.
