@@ -1,4 +1,4 @@
-# ¿Proposición o No? - Reto Interactivo para Mentes Lógicas 💡
+# ¿Proposición o No? - Reto Interactivo para Mentes Lógicas
 
 ##  ¿Qué es una proposición?
 
