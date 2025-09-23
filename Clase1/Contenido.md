@@ -1,6 +1,6 @@
 # ¿Proposición o No? - Reto Interactivo para Mentes Lógicas 💡
 
-## 📘 ¿Qué es una proposición?
+##  ¿Qué es una proposición?
 
 En lógica, una **proposición** es un enunciado que **puede ser clasificado como verdadero o falso**, pero **no ambos al mismo tiempo**. Es la unidad básica del razonamiento lógico y se utiliza en disciplinas como la filosofía, la informática, la matemática y la programación.
 
