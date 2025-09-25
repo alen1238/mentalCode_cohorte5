@@ -135,3 +135,38 @@ Veamos cada caso de la tabla:
     entonces q) y esa promesa se rompe (se cumple p, pero q no).
 -   En programación, esto se interpreta como una condición que no se
     cumple: el antecedente ocurre, pero el consecuente no.
+
+### Tabla de verdad:
+
+| P | Q | ( P -> Q \) |
+|---|---|------------------------|
+| V | V | ✅ Verdadero            |
+| V | F | ❌ Falso                |
+| F | V | ✅ Verdadero            |
+| F | F | ✅ Verdadero            |
+
+### Ejemplo:
+> "Si el usuario hace clic en el botón ENVIAR (P), entonces el sistema guarda la información (Q)."
+
+---
+
+##  ¿Qué vas a practicar?
+
+En la siguiente hoja de cálculo encontrarás ejercicios donde aplicarás este conector lógico.
+
+Esto te permitirá desarrollar habilidades para analizar condiciones, decisiones y resultados en entornos digitales y lógicos (como sistemas o programación).
+
+---
+
+## 📄 Accede a la hoja con los ejercicios:
+
+ [Haz clic aquí para ver la tabla de ejercicios en Google Sheets](https://docs.google.com/spreadsheets/d/1HZcijf6zAuVJlSiKo8MbGi5c1_BhItKl97wfkoHNvw0/edit?usp=sharing)
+
+---
+
+## Instrucciones:
+0. Realiza una copia del documento con tu cuenta de Google sheets (Archivo > Crear una copia )
+1. Lee cada proposición que aparece en la parte superior de cada tabla.
+2. Observa las combinaciones de valores de verdad (V o F).
+3. Selecciona si la implicación es verdadera ✅ o falsa ❌ según la lógica.
+4. Reflexiona por qué una fila es verdadera o falsa según la estructura lógica.
